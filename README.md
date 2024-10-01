@@ -9,12 +9,3 @@ cosolidates them into a single list in the ui.
 2. Clicking on the stock listing fetched more details like quote, company information and chart from the api
 and displays it on the Details screen
 
-### Libraries used
-1. Retrofit2
-2. OkHTTP3
-3. Picasso
-4. RxJava2
-5. Dagger2
-6. Room
-7. ConstraintLayout
-8. Android Support Libraries
